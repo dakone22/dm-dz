@@ -6,7 +6,7 @@
 # Использование через онлайн
 
 1. Заходите на сайт онлайн-демонстрации [Jupyter Notebook](https://jupyter.org/try-jupyter/)
-2. `File` -> `From URL...` ->
+2. `File` -> `Open From URL...` ->
    ```
    https://raw.githubusercontent.com/dakone22/dm-dz/master/full.ipynb
    ```
